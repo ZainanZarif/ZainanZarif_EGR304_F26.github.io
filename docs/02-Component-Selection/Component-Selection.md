@@ -1,5 +1,5 @@
 
----
+
 
 
 # Component Selection — Automated Laundry Folding Device
@@ -90,7 +90,7 @@
 
 **Rationale:** The Supirit ZF120A-1205000 is the preliminary choice for powering the automated laundry-folding device from a single external wall adapter. Its regulated 12 V output is compatible with the proposed DC motor power supply, while its 5 A current rating provides a potential shared power source for up to three folding motors. Unlike the other desktop-style alternatives, the Supirit adapter includes an integrated U.S. wall plug, eliminating the need to purchase a separate AC input power cord. The final selection will depend on verifying the combined operating and starting currents of the motors and other connected electronics.
 
----
+
 
 
 
