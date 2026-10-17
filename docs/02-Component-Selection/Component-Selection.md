@@ -40,6 +40,7 @@
 
 ---
 
+
 ## 3. Photoresistor (LDR)
 
 *Table 3: Photoresistor Comparison*
@@ -53,7 +54,10 @@
 **Choice:** Option 2 — Advanced Photonix PDV-P8103.
 
 **Rationale:** The PDV-P8103 was selected as a secondary garment-presence detection sensor to improve the reliability of the automated folding system. When clothing is placed on the folding platform, it blocks light from reaching the photoresistor, causing a change in resistance that can be detected by the microcontroller. This provides additional confirmation that a garment is present before the folding sequence begins. Its low cost and simple circuit integration make it a practical addition to the design. However, errors may happen like normal dark room or room light turned off, triggering folding sequence. These issues must be discussed later on thoroughly to set proper light sensitivity threshold etc.
+
+ 
 ---
+
 
 ## 4. Weight Sensor
 
@@ -79,12 +83,12 @@
 | **Solution** | **Pros** | **Cons** |
 | --- | --- | --- |
 | ![](5-1.webp)<br>**Option 1:** Bel Power SDI65-12-UDC-P5 — 12 V, 5 A, 60 W<br>**$47.95/each — verify price**<br>[View Bel Power Adapter on DigiKey](https://www.digikey.com/en/products/detail/bel-power-solutions/SDI65-12-UDC-P5/5297523) | &#8226; Regulated 12 V output is compatible with the proposed motor supply.<br>&#8226; Provides up to 5 A and 60 W of output power.<br>&#8226; Commercial external adapter avoids designing a mains-voltage supply. | &#8226; High cost compared with the other alternatives.<br>&#8226; Available current may be insufficient if several motors start simultaneously.<br>&#8226; Requires compatible power connections. |
-| ![](5-2.webp)<br>**Option 2:** Seeed 110061506 — 12 V, 2 A, 24 W<br>**$8.90/each**<br>[View Seeed Adapter on DigiKey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/110061506/21526008) | &#8226; Lowest listed price among the compared adapters.<br>&#8226; Provides a regulated 12 V output.<br>&#8226; Compact external power supply. | &#8226; Limited to 2 A output current.<br>&#8226; European plug configuration is unsuitable for direct use with standard U.S. outlets.<br>&#8226; May not provide sufficient current for multiple motors. |
+| ![](5-2.jpg)<br>**Option 2:** Seeed 110061506 — 12 V, 2 A, 24 W<br>**$8.90/each**<br>[View Seeed Adapter on DigiKey](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/110061506/21526008) | &#8226; Lowest listed price among the compared adapters.<br>&#8226; Provides a regulated 12 V output.<br>&#8226; Compact external power supply. | &#8226; Limited to 2 A output current.<br>&#8226; European plug configuration is unsuitable for direct use with standard U.S. outlets.<br>&#8226; May not provide sufficient current for multiple motors. |
 | ![](5-3.jpg)<br>**Option 3:** Supirit ZF120A-1205000 — 12 V, 5 A, 60 W<br>**$16.60/each**<br>[View Supirit ZF120A-1205000 on DigiKey](https://www.digikey.com/en/products/detail/supirit-inc/ZF120A-1205000/22535301) | &#8226; Provides a regulated 12 V output with a 5 A current rating.<br>&#8226; Integrated U.S. wall plug eliminates the need for a separate AC power cord.<br>&#8226; Lower cost than the Bel Power alternative.<br>&#8226; Compact wall-mounted design simplifies installation. | &#8226; Total current consumption must be verified for all three motors.<br>&#8226; DC barrel output requires a compatible connector for power distribution.<br>&#8226; Wall-mounted design may occupy space around adjacent electrical outlets. |
 
 **Choice:** Option 3 — Supirit ZF120A-1205000.
 
-**Rationale:** The Supirit ZF120A-1205000 is the preliminary choice for powering the automated laundry-folding device from a single external wall adapter. Its regulated 12 V output is compatible with the proposed DC motor power supply, while its 5 A current rating provides a potential shared power source for up to three folding motors. Unlike the other desktop-style alternatives, the Supirit adapter includes an integrated U.S. wall plug, eliminating the need to purchase a separate AC input power cord. Its $16.60 price also reduces the overall selected component cost to $48.98, keeping the project below the $60 budget target. The final selection will depend on verifying the combined operating and starting currents of the motors and other connected electronics.
+**Rationale:** The Supirit ZF120A-1205000 is the preliminary choice for powering the automated laundry-folding device from a single external wall adapter. Its regulated 12 V output is compatible with the proposed DC motor power supply, while its 5 A current rating provides a potential shared power source for up to three folding motors. Unlike the other desktop-style alternatives, the Supirit adapter includes an integrated U.S. wall plug, eliminating the need to purchase a separate AC input power cord. The final selection will depend on verifying the combined operating and starting currents of the motors and other connected electronics.
 
 ---
 
