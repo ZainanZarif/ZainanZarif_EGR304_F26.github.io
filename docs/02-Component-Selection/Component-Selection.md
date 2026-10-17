@@ -1,7 +1,6 @@
 
 ---
 
----
 
 # Component Selection — Automated Laundry Folding Device
 
