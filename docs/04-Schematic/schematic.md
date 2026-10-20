@@ -7,10 +7,10 @@ title: Schematic
 
 
 
-![schematic](Screenshot 2026-10-20 000320.png){style width:"350" height:"300;"}
+!(Screenshot 2026-10-20 000320.png){style width:"350" height:"300;"}
 **Figure #1:** Showing the individual subsystem schematic main circuit.
 
-![schematic](Screenshot 2026-10-20 000333.png){style width:"350" height:"300;"}
+!(Screenshot 2026-10-20 000333.png){style width:"350" height:"300;"}
 **Figure #2:** Showing the individual subsystem schematic of the power supply.
 
 
