@@ -7,13 +7,18 @@ title: Schematic
 
 
 
-!(Screenshot 2026-10-20 000320.png){style width:"350" height:"300;"}
-**Figure #1:** Showing the individual subsystem schematic main circuit.
 
-!(Screenshot 2026-10-20 000333.png){style width:"350" height:"300;"}
-**Figure #2:** Showing the individual subsystem schematic of the power supply.
+<img src="Screenshot%202026-10-20%20000320.png" width="700">
+
+**Figure #1:** Individual subsystem schematic main circuit.
+
+<img src="Screenshot%202026-10-20%20000333.png" width="700">
+
+**Figure #2:** Individual subsystem schematic power supply.
+
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [**here**](Zarif_EGR304_Subsystem.pdf), and the ZIP folder of the project is available [**here**](Zarif_EGR304_Subsystem.zip).
+
