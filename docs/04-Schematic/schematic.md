@@ -4,9 +4,7 @@ title: Schematic
 
 ## Overview
 
-
-
-
+**Note:** GitHub is currently experiencing issues displaying schematic images. If the schematic images below are not visible, please refer to the downloadable PDF of my individual subsystem schematic provided on this page. The schematic PDF has also been submitted to Canvas.
 
 
 <img src="Screenshot%202026-10-20%20000320.png" width="700">
