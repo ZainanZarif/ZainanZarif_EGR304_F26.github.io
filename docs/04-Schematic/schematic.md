@@ -4,11 +4,14 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+
+![schematic](Screenshot 2026-10-20 000320.png){style width:"350" height:"300;"}
+**Figure #1:** Showing the individual subsystem schematic main circuit.
+
+![schematic](Screenshot 2026-10-20 000333.png){style width:"350" height:"300;"}
+**Figure #2:** Showing the individual subsystem schematic of the power supply.
 
 
 ## Resouces
