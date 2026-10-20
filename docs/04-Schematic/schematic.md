@@ -8,6 +8,7 @@ title: Schematic
 
 
 
+
 <img src="Screenshot%202026-10-20%20000320.png" width="700">
 
 **Figure #1:** Individual subsystem schematic main circuit.
