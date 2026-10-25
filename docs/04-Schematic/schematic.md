@@ -1,8 +1,8 @@
 ---
-title: Schematic
+title: Individual Subsystem Schematic
 ---
 
-## Overview of Individual Subsystem Schematic
+## Overview 
 
 
 
@@ -16,7 +16,7 @@ title: Schematic
 
 <img src="Screenshot 2026-10-25 115408.png" width="700">
 
-**Figure #3:** Photoresistor-based analog sensing and signal-conditioning circuit.
+**Figure #3:** Photoresistor inclusive analog sensing and signal-conditioning circuit.
 
 <img src="Screenshot 2026-10-25 115414.png" width="700">
 
@@ -27,6 +27,8 @@ title: Schematic
 ## Resouces
 
 
-The updated individual subsystem schematic is available as a PDF download [**here**](Zarif_EGR304_Subsystem.pdf), and the complete KiCad project ZIP file is available [**here**](Zarif_EGR304_Subsystem%20%282%29.zip).
+
+The updated individual subsystem schematic is available as a PDF download [**here**](Zarif_EGR304_Subsystem.pdf), and the complete KiCad project ZIP file is available [**here**](Zarif_EGR304_Subsystem%20%283%29.zip).
+
 
 
