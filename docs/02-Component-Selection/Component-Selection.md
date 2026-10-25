@@ -64,7 +64,7 @@
 
 **Choice:** Option 3 — GlobTek WR9HD1000CCP-F(R6B), 9 V DC Wall Power Adapter.
 
-**Rationale:** We chose this GlobTek adapter because it provides 9 V, has enough current for our sensing circuit, and costs less than the other options. Its barrel plug should work with our design, but we still need to confirm the jack size and polarity.
+**Rationale:** The GlobTek adapter was an ideal choice because it provides 9 V, has enough current for our sensing circuit, and costs less than the other options. Its barrel plug should work with our design, but the barrel jack size and polarity still needs to be confirmed.
  
 
 
