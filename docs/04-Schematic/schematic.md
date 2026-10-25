@@ -2,22 +2,31 @@
 title: Schematic
 ---
 
-## Overview
-
-**Note:** GitHub is currently experiencing issues displaying schematic images. If the schematic images below are not visible, please refer to the downloadable PDF of my individual subsystem schematic provided on this page. The schematic PDF has also been submitted to Canvas.
+## Overview of Individual Subsystem Schematic
 
 
-<img src="Screenshot%202026-10-20%20000320.png" width="700">
 
-**Figure #1:** Individual subsystem schematic main circuit.
+<img src="Screenshot 2026-10-25 115323.png" width="700">
 
-<img src="Screenshot%202026-10-20%20000333.png" width="700">
+**Figure #1:** Complete individual subsystem schematic.
 
-**Figure #2:** Individual subsystem schematic power supply.
+<img src="Screenshot 2026-10-25 115359.png" width="700">
+
+**Figure #2:** PIC18F57Q43 Curiosity Nano microcontroller connections.
+
+<img src="Screenshot 2026-10-25 115408.png" width="700">
+
+**Figure #3:** Photoresistor-based analog sensing and signal-conditioning circuit.
+
+<img src="Screenshot 2026-10-25 115414.png" width="700">
+
+**Figure #4:** Regulated 5 V power supply circuit.
 
 
 
 ## Resouces
 
-The schematic as a PDF download is available [**here**](Zarif_EGR304_Subsystem.pdf), and the ZIP folder of the project is available [**here**](Zarif_EGR304_Subsystem.zip).
+
+The updated individual subsystem schematic is available as a PDF download [**here**](Zarif_EGR304_Subsystem.pdf), and the complete KiCad project ZIP file is available [**here**](Zarif_EGR304_Subsystem%20%282%29.zip).
+
 
