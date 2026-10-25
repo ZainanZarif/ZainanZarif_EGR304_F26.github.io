@@ -1,6 +1,6 @@
 
 ---
-title: Individual Subsystem Schematic
+Individual Subsystem Schematic
 ---
 
 ## Overview
