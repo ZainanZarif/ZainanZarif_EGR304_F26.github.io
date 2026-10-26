@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-This block diagram illustrates the electrical architecture of my subsystem for Team 209's Automated Laundry Folding Device. It shows how the PIC18F57Q43 Curiosity Nano interfaces with the garment presence sensor, user controls, status indicator, power supply, and neighboring team subsystems through ribbon cable connectors.
+This block diagram illustrates the electrical architecture of my subsystem for Team 209's Automated Laundry Folding Device. It shows how the PIC18F57Q43 Curiosity Nano interfaces with the photoresistor which acts as the garment presence sensor, amplifier & appropriate filter, basic user control and debugging buttons, LED status indicator and power supply.
 
 
 
@@ -14,4 +14,8 @@ This block diagram illustrates the electrical architecture of my subsystem for T
 ## Block Diagram 
 
 
-![Example of Indivial Block diagram ](Individual%20Block%20Diagramz.drawio.png)
+
+
+![Individual Block Diagram](image/Individual_Block_Diagram.png)
+
+
