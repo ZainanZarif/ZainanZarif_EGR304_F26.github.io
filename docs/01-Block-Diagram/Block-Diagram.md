@@ -16,6 +16,6 @@ This block diagram illustrates the electrical architecture of my subsystem for T
 
 
 
-![Individual Block Diagram](images/Individual_Block_Diagram.png)
+![Individual Block Diagram](images/Block%20Diagram%20Zainan1.drawio.png)
 
 
