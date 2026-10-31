@@ -1,9 +1,10 @@
 
 ---
-title: Power Budget
+Power Budget Overview
 ---
 
-## Overview
+
+
 
 The purpose of this power budget is to estimate the electrical power and current requirements of my EGR 304 individual subsystem. The subsystem uses a 9V DC power adapter and an L7805 voltage regulator to provide a regulated 5V supply for the PIC18F57Q43 Curiosity Nano, MCP6004 operational amplifier, and associated sensor circuitry.
 
@@ -11,7 +12,17 @@ The power budget helps determine whether the selected power supply can support t
 
 ## Power Budget
 
-The complete power budget is available as a PDF and an Excel spreadsheet in the Resources section below.
+<img src="visual/pb1.png" width="850">
+
+**Figure 1:** Power budget calculations.
+
+<img src="visual/pb2.png" width="850">
+
+**Figure 2:** Continuation of power budget calculations.
+
+<img src="visual/pb3.png" width="850">
+
+**Figure 3:** Continuation of power budget calculations.
 
 ## Conclusions
 
