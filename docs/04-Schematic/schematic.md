@@ -16,5 +16,7 @@ The individual subsystem schematic is organized into five main sections: the Cur
 
 The individual subsystem schematic is available as a PDF download [**here**](files/Zarif_EGR304_Subsystem.pdf), and the complete KiCad project ZIP file is available [**here**](files/Zarif_EGR304_Subsystem%20%286%29.zip).
 
+**Note:** Some images may not display properly due to a GitHub rendering or loading issue. If an image is not visible, please refer to the downloadable PDF or supporting files provided on this page.
+
 
 
