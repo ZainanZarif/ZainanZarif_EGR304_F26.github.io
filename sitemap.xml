@@ -35,14 +35,4 @@
          <lastmod>2026-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/</loc>
-         <lastmod>2026-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/esp-32-table/</loc>
-         <lastmod>2026-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
 </urlset>
