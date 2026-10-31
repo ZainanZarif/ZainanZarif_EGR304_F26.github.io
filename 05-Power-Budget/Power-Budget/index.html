@@ -83,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#overview" class="md-skip">
+        <a href="#title-power-budget" class="md-skip">
           Skip to content
         </a>
       
@@ -683,9 +683,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#title-power-budget" class="md-nav__link">
+    <span class="md-ellipsis">
+      title: Power Budget
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#overview" class="md-nav__link">
     <span class="md-ellipsis">
       Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#power-budget" class="md-nav__link">
+    <span class="md-ellipsis">
+      Power Budget
     </span>
   </a>
   
@@ -701,9 +719,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#resouces" class="md-nav__link">
+  <a href="#resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Resouces
+      Resources
     </span>
   </a>
   
@@ -855,9 +873,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#title-power-budget" class="md-nav__link">
+    <span class="md-ellipsis">
+      title: Power Budget
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#overview" class="md-nav__link">
     <span class="md-ellipsis">
       Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#power-budget" class="md-nav__link">
+    <span class="md-ellipsis">
+      Power Budget
     </span>
   </a>
   
@@ -873,9 +909,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#resouces" class="md-nav__link">
+  <a href="#resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Resouces
+      Resources
     </span>
   </a>
   
@@ -906,24 +942,27 @@
 
   <h1>Power Budget</h1>
 
+<hr />
+<h2 id="title-power-budget">title: Power Budget</h2>
 <h2 id="overview">Overview</h2>
-<p>Write a overview of what you did and why you did a Power Budget.</p>
-<blockquote>
-<p>Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.</p>
-</blockquote>
+<p>The purpose of this power budget is to estimate the electrical power and current requirements of my EGR 304 individual subsystem. The subsystem uses a 9V DC power adapter and an L7805 voltage regulator to provide a regulated 5V supply for the PIC18F57Q43 Curiosity Nano, MCP6004 operational amplifier, and associated sensor circuitry.</p>
+<p>The power budget helps determine whether the selected power supply can support the subsystem and provides an estimate of the total current consumption.</p>
+<h2 id="power-budget">Power Budget</h2>
+<p>The complete power budget is available as a PDF and an Excel spreadsheet in the Resources section below.</p>
 <h2 id="conclusions">Conclusions</h2>
-<p>From the prepare Power Budget, .....</p>
-<h2 id="resouces">Resouces</h2>
-<p>The power budget as a PDF download is available <a href="PowerBudgetExample.pdf"><em>here</em></a>, and a Microsoft Excel Sheet <a href="PowerBudgetExample.xlsx"><em>here</em></a>.</p>
+<p>Based on the preliminary power budget, the subsystem has an estimated 5V load current of approximately 100.68 mA, excluding some additional peripheral loads. With a 25% safety margin, the estimated current requirement is approximately 125.85 mA. The selected 9V, 1A power adapter provides sufficient current capacity for the estimated subsystem load. The final current consumption will be verified during hardware testing.</p>
+<h2 id="resources">Resources</h2>
+<p>The power budget files are available below:</p>
+<ul>
+<li><a href="../power_budget_files/ZARIF_POWER_BUDGET.pdf">Download Power Budget PDF</a></li>
+<li><a href="../power_budget_files/Zarif_EGR304_PowerBudget1.xlsx">Download Power Budget Excel Spreadsheet</a></li>
+</ul>
 
 
 
 
 
 
-
-  
-  
 
 
 
