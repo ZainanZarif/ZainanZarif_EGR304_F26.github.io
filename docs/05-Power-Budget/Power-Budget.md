@@ -3,24 +3,21 @@
 Power Budget Overview
 ---
 
-
-
-
 The purpose of this power budget is to estimate the electrical power and current requirements of my EGR 304 individual subsystem. The subsystem uses a 9V DC power adapter and an L7805 voltage regulator to provide a regulated 5V supply for the PIC18F57Q43 Curiosity Nano, MCP6004 operational amplifier, and associated sensor circuitry.
 
 The power budget helps determine whether the selected power supply can support the subsystem and provides an estimate of the total current consumption.
 
 ## Power Budget
 
-<img src="visual/pb1.png" width="850">
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/05-Power-Budget/visual/pb1.png" width="850">
 
 **Figure 1:** Power budget calculations.
 
-<img src="visual/pb2.png" width="850">
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/05-Power-Budget/visual/pb2.png" width="850">
 
 **Figure 2:** Continuation of power budget calculations.
 
-<img src="visual/pb3.png" width="850">
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/05-Power-Budget/visual/pb3.png" width="850">
 
 **Figure 3:** Continuation of power budget calculations.
 
@@ -35,4 +32,3 @@ The power budget files are available below:
 - [Download Power Budget PDF](power_budget_files/ZARIF_POWER_BUDGET.pdf)
 - [Download Power Budget Excel Spreadsheet](power_budget_files/Zarif_EGR304_PowerBudget1.xlsx)
 
-**Note:** Some images may not display properly due to a GitHub rendering or loading issue. If an image is not visible, please refer to the downloadable PDF or supporting files provided on this page.
