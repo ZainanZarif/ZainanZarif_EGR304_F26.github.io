@@ -15,7 +15,7 @@
 
 **Choice:** Option 2 — Advanced Photonix PDV-P8103.
 
-**Rationale:** The PDV-P8103 chosen because it is inexpensive and easy to connect to our circuit. It can help detect when clothing covers the sensor. We will need to adjust the light threshold so changes in room lighting do not trigger a false reading.
+**Rationale:** The PDV-P8103 was selected because it provides an inexpensive and straightforward way to detect garment presence through changes in light intensity. Its resistance changes when clothing covers the sensor, allowing the microcontroller to detect the change through a voltage-divider circuit. Compared with the other options, it has the lowest cost at $0.72 and provides sufficient functionality for our application. Its through-hole design also makes prototyping and PCB integration easier.
 
  
 ---
@@ -32,7 +32,7 @@
 
 **Choice:** Option 3 — Microchip MCP6004-I/P Operational Amplifier.
 
-**Rationale:** The MCP6004 was selected because it works with our 5 V supply and handles the photoresistor signal well. It has enough amplifier channels for our buffer and filter, and its DIP package is easy to work with. Additionally, we have prior experience using it in our labs.
+**Rationale:** The MCP6004 was selected because its rail-to-rail output allows better use of the microcontroller's 0–5 V ADC range compared with the LM324 alternatives. Its low input bias current also makes it suitable for conditioning signals from the photoresistor circuit. The four amplifier channels provide flexibility for buffering and filtering, while its DIP package simplifies prototyping. Additionally, our previous laboratory experience with this component makes implementation and troubleshooting easier.
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Choice:** Option 3 — STMicroelectronics L7805ABV-DG Voltage Regulator.
 
-**Rationale:** L7805ABV-DG because it gives us the 5 V our circuit needs from a 9 V adapter. It is simple to use, matches our schematic, and includes basic protection. 
+**Rationale:** The L7805ABV-DG was selected because it provides a stable 5 V output from our 9 V adapter, which is necessary for reliable microcontroller and sensor operation. Unlike the more expensive LM2940 low-dropout regulator, the L7805 is sufficient because our 9 V supply provides adequate voltage headroom. Its through-hole package makes assembly straightforward, and its built-in thermal and short-circuit protection improves reliability. The preliminary power budget also indicates that a linear regulator is practical for our relatively low-power subsystem.
 
 ---
 
@@ -64,8 +64,7 @@
 
 **Choice:** Option 3 — GlobTek WR9HD1000CCP-F(R6B), 9 V DC Wall Power Adapter.
 
-**Rationale:** The GlobTek adapter was an ideal choice because it provides 9 V, has enough current for our sensing circuit, and costs less than the other options. Its barrel plug should work with our design, but the barrel jack size and polarity still needs to be confirmed.
- 
+**Rationale:** The GlobTek adapter was selected because it provides a regulated 9 V output with a 1 A current capacity, which is sufficient for our subsystem based on the preliminary power budget. At $10.35, it is also the least expensive of the three options while offering more current capacity than the Triad adapter. Although the Bel adapter provides slightly more current, that additional capacity is unnecessary for our design. Its external wall-mounted construction also eliminates the need to build a separate AC-to-DC power supply.
 
 
 
