@@ -34,3 +34,5 @@ The power budget files are available below:
 
 - [Download Power Budget PDF](power_budget_files/ZARIF_POWER_BUDGET.pdf)
 - [Download Power Budget Excel Spreadsheet](power_budget_files/Zarif_EGR304_PowerBudget1.xlsx)
+
+**Note:** Some images may not display properly due to a GitHub rendering or loading issue. If an image is not visible, please refer to the downloadable PDF or supporting files provided on this page.
