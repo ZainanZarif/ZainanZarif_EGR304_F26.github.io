@@ -19,7 +19,7 @@ This bill of materials lists the components for my EGR 304 individual subsystem,
 | Capacitor, 0.1 µF | 3 | $0.82 | $2.46 | TDK | FG26C0G1H104JNT00 | [DigiKey](https://www.digikey.com/en/products/detail/tdk/FG26C0G1H104JNT00/7326730) | — | C2, C5, C4 |
 | Capacitor, 0.33uF | 1 | $0.37 | $0.37 | TDK | FA28X7R1H334KRU00 | [DigiKey](https://www.digikey.com/en/products/detail/tdk/FA28X7R1H334KRU00/7384656) | — | C3 |
 | LED | 1 | $0.21 | $0.21 | Kingbright | WP7113ID | [DigiKey](https://www.digikey.com/en/products/detail/kingbright/WP7113ID/1747663) | — | D1 |
-| 200 mA fuse | 1 | $1.69 | $1.69 | Littelfuse Inc. | 0217.200MXP | [DigiKey](https://www.digikey.com/en/products/detail/littelfuse-inc/0217-200MXP/777529) | — | F1 |
+| 200 mA fuse | 1 | $1.69 | $1.69 | Littelfuse Inc. | F1717-ND | [DigiKey](https://www.digikey.com/en/products/detail/littelfuse-inc/0217-200MXP/777529) | — | F1 |
 | 9V DC Wall Adapter | 1 | $10.35 | $10.35 | GlobTek, Inc. | WR9HD1000CCP-F(R6B) | [DigiKey](https://www.digikey.com/en/products/detail/globtek-inc/WR9HD1000CCP-F-R6B/8598259) | — | J1 |
 | Barrel Jack Switch | 1 | $0.83 | $0.83 | Same Sky (formerly CUI Devices) | PJ-102AH | [DigiKey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/PJ-102AH/408448) | — | J2 |
 | 8-position connector/header | 3 | $0.68 | $2.04 | Molex | 0022032081 | [DigiKey](https://www.digikey.com/en/products/detail/molex/0022032081/26635) | — | J3, J4, J5 |
