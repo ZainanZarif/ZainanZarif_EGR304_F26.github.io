@@ -825,9 +825,27 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#complete-pcb-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Complete PCB Layout
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#pcb-design-files" class="md-nav__link">
     <span class="md-ellipsis">
       PCB Design Files
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pcb-manufacturing-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      PCB Manufacturing Files
     </span>
   </a>
   
@@ -858,8 +876,8 @@
 
 <h1 id="pcb-design">PCB Design</h1>
 <h2 id="introduction">Introduction</h2>
-<p>This page documents the PCB design of my individual subsystem for the laundry folding device.
-The PCB was designed using KiCad and incorporates the electronic components required for my subsystem, including the PIC18F57Q43 Curiosity Nano microcontroller, MCP6004 operational amplifier, voltage regulator, sensors, and supporting circuitry.</p>
+<p>This page documents the PCB design of my individual subsystem for the laundry folding device.</p>
+<p>The PCB was designed using KiCad and incorporates the electronic components required for my subsystem, including the PIC18F57Q43 Curiosity Nano microcontroller, MCP6004 operational amplifier, voltage regulator, sensors, and supporting circuitry.</p>
 <h2 id="pcb-specifications">PCB Specifications</h2>
 <table>
 <thead>
@@ -904,18 +922,27 @@ The PCB was designed using KiCad and incorporates the electronic components requ
 </tbody>
 </table>
 <h2 id="front-pcb-layout">Front PCB Layout</h2>
-<p>The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane. </p>
+<p>The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane.</p>
 <p><img alt="Front PCB Layout" src="images/PCB_Front.png" /></p>
 <p><strong>Figure 1:</strong> Front copper layer of the individual subsystem PCB.</p>
 <h2 id="back-pcb-layout">Back PCB Layout</h2>
 <p>The back copper layer (B.Cu) contains additional electrical connections and a ground plane. Both copper layers are used to complete the circuit routing while maintaining required clearances.</p>
 <p><img alt="Back PCB Layout" src="images/PCB_Back.png" /></p>
 <p><strong>Figure 2:</strong> Back copper layer of the individual subsystem PCB.</p>
+<h2 id="complete-pcb-layout">Complete PCB Layout</h2>
+<p>The following image shows the completed PCB design in KiCad, including component placement, routed connections, copper layers, and ground planes.</p>
+<p><img alt="Complete PCB Layout" src="./images/PCB%20Complete.png" /></p>
+<p><strong>Figure 3:</strong> Complete PCB layout showing the individual subsystem design.</p>
 <h2 id="pcb-design-files">PCB Design Files</h2>
 <p>The following files contain the completed PCB layout and KiCad design project.</p>
 <ul>
 <li><a href="PCB_Layout.pdf">Download PCB Layout PDF</a></li>
 <li><a href="Zarif_EGR304_Subsystem%20%287%29.zip">Download Complete KiCad Project ZIP</a></li>
+</ul>
+<h2 id="pcb-manufacturing-files">PCB Manufacturing Files</h2>
+<p>The Gerber files for PCB manufacturing files were generated using KiCad and include the top and bottom copper layers, board outline, solder mask layers, silkscreen layers, and drill file.</p>
+<ul>
+<li><a href="Zarif_PCB_209.zip">Download Gerber Manufacturing Files ZIP</a></li>
 </ul>
 
 
