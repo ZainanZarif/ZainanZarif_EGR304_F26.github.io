@@ -4,6 +4,7 @@
 ## Introduction
 
 This page documents the PCB design of my individual subsystem for the laundry folding device.
+
 The PCB was designed using KiCad and incorporates the electronic components required for my subsystem, including the PIC18F57Q43 Curiosity Nano microcontroller, MCP6004 operational amplifier, voltage regulator, sensors, and supporting circuitry.
 
 ## PCB Specifications
@@ -21,7 +22,7 @@ The PCB was designed using KiCad and incorporates the electronic components requ
 
 ## Front PCB Layout
 
-The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane. 
+The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane.
 
 ![Front PCB Layout](./images/PCB_Front.png)
 
@@ -35,12 +36,28 @@ The back copper layer (B.Cu) contains additional electrical connections and a gr
 
 **Figure 2:** Back copper layer of the individual subsystem PCB.
 
+## Complete PCB Layout
+
+The following image shows the completed PCB design in KiCad, including component placement, routed connections, copper layers, and ground planes.
+
+![Complete PCB Layout](./images/PCB%20Complete.png)
+
+**Figure 3:** Complete PCB layout showing the individual subsystem design.
+
 ## PCB Design Files
 
 The following files contain the completed PCB layout and KiCad design project.
 
 - [Download PCB Layout PDF](PCB_Layout.pdf)
 - [Download Complete KiCad Project ZIP](Zarif_EGR304_Subsystem%20%287%29.zip)
+
+## PCB Manufacturing Files
+
+The Gerber files for PCB manufacturing files were generated using KiCad and include the top and bottom copper layers, board outline, solder mask layers, silkscreen layers, and drill file.
+
+- [Download Gerber Manufacturing Files ZIP](Zarif_PCB_209.zip)
+
+
 
 
 
