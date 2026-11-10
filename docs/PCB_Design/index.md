@@ -1,4 +1,3 @@
-
 # PCB Design
 
 ## Introduction
@@ -40,7 +39,7 @@ The back copper layer (B.Cu) contains additional electrical connections and a gr
 
 The following image shows the completed PCB design in KiCad, including component placement, routed connections, copper layers, and ground planes.
 
-![Complete PCB Layout](./images/PCB_Complete.png)
+![Complete PCB Layout](./images/PCB_Complete_Image.png)
 
 **Figure 3:** Complete PCB layout showing the individual subsystem design.
 
@@ -48,12 +47,12 @@ The following image shows the completed PCB design in KiCad, including component
 
 The following files contain the completed PCB layout and KiCad design project.
 
-- [Download PCB Layout PDF](PCB_Layout.pdf)
-- [Download Complete KiCad Project ZIP](Zarif_EGR304_Subsystem%20%287%29.zip)
+- [Download PCB Layout PDF](PCB_Front_Back.pdf)
+- [Download Complete KiCad Project ZIP](Zarif_EGR304_Subsystem%20%288%29.zip)
 
 ## PCB Manufacturing Files
 
-The Gerber files for PCB manufacturing files were generated using KiCad and include the top and bottom copper layers, board outline, solder mask layers, silkscreen layers, and drill file.
+The Gerber files for PCB manufacturing were generated using KiCad and include the top and bottom copper layers, board outline, solder mask layers, silkscreen layers, and drill file.
 
 - [Download Gerber Manufacturing Files ZIP](Zarif_PCB_209.zip)
 
