@@ -39,7 +39,7 @@ The back copper layer (B.Cu) contains additional electrical connections and a gr
 
 The following image shows the completed PCB design in KiCad, including component placement, routed connections, copper layers, and ground planes.
 
-![Complete PCB Layout](./images/PCB_Complete_Image.png)
+![Complete PCB Layout](./images/PCB_Complete.png)
 
 **Figure 3:** Complete PCB layout showing the individual subsystem design.
 
