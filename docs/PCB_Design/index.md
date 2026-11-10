@@ -23,7 +23,7 @@ The PCB was designed using KiCad and incorporates the electronic components requ
 
 The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane.
 
-![Front PCB Layout](./images/PCB_Front.png)
+<img src="./images/PCB_Front.png" alt="Front PCB Layout" width="850">
 
 **Figure 1:** Front copper layer of the individual subsystem PCB.
 
@@ -31,7 +31,7 @@ The front copper layer (F.Cu) contains routed electrical connections, component 
 
 The back copper layer (B.Cu) contains additional electrical connections and a ground plane. Both copper layers are used to complete the circuit routing while maintaining required clearances.
 
-![Back PCB Layout](./images/PCB_Back.png)
+<img src="./images/PCB_Back.png" alt="Back PCB Layout" width="850">
 
 **Figure 2:** Back copper layer of the individual subsystem PCB.
 
