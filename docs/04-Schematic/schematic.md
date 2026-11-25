@@ -4,7 +4,7 @@ Individual Subsystem Schematic
 
 ## Overview
 
-<img src="Pictures/Zarif_EGR304_Subsystem1.svg" width="100%">
+![Subsystem Schematic](Pictures/Zarif_EGR304_Subsystem1.svg)
 
 **Figure #1:** Complete individual subsystem schematic.
 
