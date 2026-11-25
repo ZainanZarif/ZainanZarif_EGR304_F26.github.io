@@ -23,7 +23,7 @@ The PCB was designed using KiCad and incorporates the electronic components requ
 
 The front copper layer (F.Cu) contains routed electrical connections, component pads, and a copper ground plane.
 
-<img src="./images/PCB_F.png" alt="Front PCB Layout" width="850">
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/PCB_Design/images/PCB_F.png" alt="Front PCB Layout" width="100%">
 
 **Figure 1:** Front copper layer of the individual subsystem PCB.
 
@@ -31,7 +31,7 @@ The front copper layer (F.Cu) contains routed electrical connections, component 
 
 The back copper layer (B.Cu) contains additional electrical connections and a ground plane. Both copper layers are used to complete the circuit routing while maintaining required clearances.
 
-<img src="./images/PCB_B.png" alt="Back PCB Layout" width="850">
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/PCB_Design/images/PCB_B.png" alt="Back PCB Layout" width="100%">
 
 **Figure 2:** Back copper layer of the individual subsystem PCB.
 
@@ -39,7 +39,7 @@ The back copper layer (B.Cu) contains additional electrical connections and a gr
 
 The following image shows the completed PCB design in KiCad, including component placement, routed connections, copper layers, and ground planes.
 
-![Complete PCB Layout](./images/Total.png)
+<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/PCB_Design/images/Total.png" alt="Complete PCB Layout" width="100%">
 
 **Figure 3:** Complete PCB layout showing the individual subsystem design.
 
@@ -48,13 +48,14 @@ The following image shows the completed PCB design in KiCad, including component
 The following files contain the completed PCB layout and KiCad design project.
 
 - [Download PCB Layout PDF](PCB_Front_Back.pdf)
-- [Download Complete KiCad Project ZIP](Zarif_EGR304_Subsystem%20%289%29.zip)
+- [Download Complete KiCad Project ZIP](https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/PCB_Design/Zarif_EGR304_Subsystem%20%289%29.zip)
+
 
 ## PCB Manufacturing Files
 
 The Gerber files for PCB manufacturing were generated using KiCad and include the top and bottom copper layers, board outline, solder mask layers, silkscreen layers, and drill file.
 
-- [Download Gerber Manufacturing Files ZIP](Zarif209.zip)
+- [Download Gerber Manufacturing Files ZIP](https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/main/docs/PCB_Design/Zarif209.zip)
 
 
 
