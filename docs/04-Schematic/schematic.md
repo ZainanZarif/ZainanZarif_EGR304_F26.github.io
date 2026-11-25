@@ -4,7 +4,7 @@ Individual Subsystem Schematic
 
 ## Overview
 
-<img src="https://raw.githubusercontent.com/ZainanZarif/ZainanZarif_EGR304_F26.github.io/d76dfbf76d025156072acaff80462c2084526dc9/docs/04-Schematic/Pictures/Zarif_EGR304_Subsystem1.svg" width="100%">
+<img src="Pictures/Zarif_EGR304_Subsystem1.svg" width="100%">
 
 **Figure #1:** Complete individual subsystem schematic.
 
